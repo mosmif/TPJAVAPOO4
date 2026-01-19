@@ -2,9 +2,9 @@
 
 ## Input / Output & Exception Handling
 
-**Student:** Mustapha Elmifdali
-**Class:** SDIA1
-**Subject:** Object-Oriented Programming (OOP) & Java
+* **Student:** Mustapha Elmifdali
+* **Class:** SDIA1
+* **Subject:** Object-Oriented Programming (OOP) & Java
 
 ---
 
@@ -80,11 +80,11 @@ All data is stored in a file named **`products.dat`**.
 
 #### 📸 Execution Screenshots
 
-***Main Menu & Product List Display***
-![Exercise 2](screenshots/ex11.jpg)
+***Main Menu & Add Product & Save Operations ***
+![Exercise 2](screenshots/EX21.png)
 
-***Add, Search, Delete & Save Operations***
-![Exercise 2](screenshots/ex12.jpg)
+***Search, Delete Product & Product List Display***
+![Exercise 2](screenshots/EX22.png)
 
 ---
 
