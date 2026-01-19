@@ -80,11 +80,11 @@ All data is stored in a file named **`products.dat`**.
 
 #### 📸 Execution Screenshots
 
-***Main Menu & Add Product & Save Operations***
-![Exercise 2](screenshots/EX21.jpg)
+***Main Menu & Product List Display***
+![Exercise 2](screenshots/ex11.jpg)
 
-***Search, Delete Product & Product List Display***
-![Exercise 2](screenshots/EX22.jpg)
+***Add, Search, Delete & Save Operations***
+![Exercise 2](screenshots/ex12.jpg)
 
 ---
 
